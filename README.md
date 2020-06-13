@@ -8,7 +8,7 @@
 <hr>
 
 ### Control Flow Graph
-![Alt text](~/media/CFG.jpg?raw=true "Слика од CFG")
+![Alt text](SI_Lab2_186120/media/CFG.jpg?raw=true "Слика од CFG")
 
 #### ЛЕГЕНДА:
 
